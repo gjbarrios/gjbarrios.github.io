@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gabriel John Barrios"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - url: https://drive.google.com/file/d/1fWXePpP09WMaYg-hE1C7dPum70L6i6-y/view?usp=sharing
+        text: CV
+      - url: https://drive.google.com/file/d/1bt45LeFBUqaoCDUoixHKSiZkfy1Z6sfv/view?usp=sharing
+        text: Resume
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
