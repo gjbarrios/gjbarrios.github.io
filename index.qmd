@@ -1,0 +1,21 @@
+---
+title: "About"
+---
+
+## Gabriel Barrios
+
+![](imgs/ImgCirc.png){fig-align="center" width=30%}
+
+Gabriel Barrios is a recent graduate at Old Dominion University.He is an active volunteer explaining physics demonstrations and providing outreach for four years.
+
+Education: Graduated from Old Dominion University in May 2023. Studied under Dr. Felix Ringer for programming quantum-classical simulations of simple field theories. See @nte-1 for more information.
+
+::: {#nte-1 .callout-note collapse="true" icon=false}
+## *Quantum-classical simulation and analysis of the lattice Schwinger model*
+
+The following paper uses a quantum computer to simulate low-dimensional field theories and their evolution over time. The Schwinger model is selected for this simulation, condensing into a spatial lattice under a series of constraints. The following quantum simulation undergoes time evolution by programming a simple measurement algorithm using IBM's QisKit. One of the methods used in the algorithm is solving the Schrodinger equation for a given Hamiltonian of the system. Other complicated variations of that algorithm can act as a substitute for future investigation, specifically quantum phase estimation. Potential exploration of digital quantum simulation involves all adjustable parameters in setup, evolution, and measurements for future investigation.
+:::
+
+## Research
+
+Programmed the quantum-classical simulation of the lattice Schwinger model using QisKit (See @nte-1). Currently volunteering and outreach for SPS events as an ODU alumnus.
