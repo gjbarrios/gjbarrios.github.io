@@ -4,7 +4,7 @@ title: "About"
 
 ## Gabriel Barrios
 
-![](imgs/ImgCirc.png){fig-align="center" width=30%}
+[![](imgs/ImgCirc.png){fig-align="center" width=30%}]
 
 Gabriel Barrios is a recent graduate at Old Dominion University.He is an active volunteer explaining physics demonstrations and providing outreach for four years.
 
