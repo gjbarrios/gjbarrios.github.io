@@ -4,8 +4,6 @@ title: "About"
 
 ## Gabriel Barrios
 
-[![](imgs/ImgCirc.png){fig-align="center" width=30%}]
-
 Gabriel Barrios is a recent graduate at Old Dominion University.He is an active volunteer explaining physics demonstrations and providing outreach for four years.
 
 Education: Graduated from Old Dominion University in May 2023. Studied under Dr. Felix Ringer for programming quantum-classical simulations of simple field theories. See @nte-1 for more information.
